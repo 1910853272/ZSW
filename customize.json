@@ -1,11 +1,11 @@
 {
   "greeting": "你好呀",
-  "name": "曾莎薇",
+  "name": "莎薇",
   "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
   "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
   "imagePath": "img/lydia2.png",
-  "text1": "今天是你的生日啊!!! :D",
-  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
+  "text1": "今天是2025年的第一天!!! :D",
+  "textInChatBox": "非常非常非常诚挚的祝你新年快乐！！！很多很多的快乐……",
   "sendButtonLabel": "发送",
   "text2": "我想给你一个惊喜",
   "text3": "我认真的想了很久",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "所",
   "bigTextPart2": "以",
-  "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "wishHeading": "我想对你说",
+  "outroText": "我喜欢你!",
+  "replayText": "我非常非常喜欢你!!!希望新的一年，你在身边，在你身边!",
   "outroSmiley": ":)"
 }
