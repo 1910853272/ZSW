@@ -1,5 +1,5 @@
 # 新年快乐
 
-本项目预览页面：<https://1910853272.github.io/HappyNewYear/>
+本项目预览页面：<https://1910853272.github.io/ZSW/>
 
 送给特别的你～
